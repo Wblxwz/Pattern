@@ -1,0 +1,15 @@
+﻿  AbstractFactory.cpp
+  AppleDesktopComputer.cpp
+  AppleIpad.cpp
+  AppleNoteBookComputer.cpp
+  ApplePhone.cpp
+  HuaWeiDesktopComputer.cpp
+  HuaWeiIpad.cpp
+  HuaWeiNoteBookComputer.cpp
+  HuaWeiPhone.cpp
+  XiaoMiDesktopComputer.cpp
+  XiaoMiIpad.cpp
+  XiaoMiNoteBookComputer.cpp
+  XiaoMiPhone.cpp
+  正在生成代码...
+  AbstractFactory.vcxproj -> C:\Users\abm123456\Desktop\Pattern\Abstract Factory\AbstractFactory\Debug\AbstractFactory.exe
